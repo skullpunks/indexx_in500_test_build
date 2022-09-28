@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f6d2004.css",
+    "main.js": "/static/js/main.c829431c.js",
+    "static/media/indexx500.gif": "/static/media/indexx500.c38e003cdfd29da1ece4.gif",
+    "static/media/welcome-logo.svg": "/static/media/welcome-logo.22b1cb07184505e0d35ca5861c72c8a2.svg",
+    "static/media/etherum-icon.svg": "/static/media/etherum-icon.4040a5085cfdce4aeae43d229f974467.svg",
+    "static/media/logo.svg": "/static/media/logo.c93f5f5e43efcf560829e8353797b9c0.svg",
+    "static/media/bnb-icon.svg": "/static/media/bnb-icon.b6d3be527e479f603b804254b559090c.svg",
+    "static/media/bitcoin-icon.svg": "/static/media/bitcoin-icon.c704969957cf5572c1f0ad5ce18a3bce.svg",
+    "static/media/stripe-icon.svg": "/static/media/stripe-icon.641f02bcb0ccf0ee2b1441d28e38cba5.svg",
+    "static/media/bottom-arrow.svg": "/static/media/bottom-arrow.9cf7d0c8857494c7ac3d293b58930502.svg",
+    "static/media/busd-icon.svg": "/static/media/busd-icon.f2a394e97a60eaf49851474c19382ab4.svg",
+    "index.html": "/index.html",
+    "main.1f6d2004.css.map": "/static/css/main.1f6d2004.css.map",
+    "main.c829431c.js.map": "/static/js/main.c829431c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6d2004.css",
+    "static/js/main.c829431c.js"
+  ]
+}
